@@ -27,13 +27,9 @@
     "no-unused-vars": [
       1
     ],
-    "brace-style": [
-      "error",
-      "stroustrup"
-    ],
     "indent": [
       "error",
-      2
+      1
     ],
     "linebreak-style": [
       "error",
@@ -143,10 +139,6 @@
     ],
     "template-curly-spacing": [
       1
-    ],
-    "func-style": [
-      1,
-      "expression"
     ]
   }
 }
